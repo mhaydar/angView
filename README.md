@@ -1,0 +1,2 @@
+# angView
+simple angular application 
